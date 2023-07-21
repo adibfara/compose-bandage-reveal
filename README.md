@@ -1,3 +1,6 @@
 ## Jetpack Compose Bandage Reveal Effect
 
-https://github.com/adibfara/compose-bandage-reveal/blob/428a20a99b23f8b165d65cd8adcba012e13d14e1/demo.mp4
+
+
+https://github.com/adibfara/compose-bandage-reveal/assets/5001389/1f5df50b-2511-4edb-a063-ee8cec3336c5
+
